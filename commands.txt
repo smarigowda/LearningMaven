@@ -1,0 +1,3 @@
+mvn compiler:help -Dcmd=compiler:compile -Ddetail
+
+mvn help:describe -Dcmd=compiler:compile -Ddetail
